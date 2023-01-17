@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673950289 source:d:\coding\oneaway\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<math.h>
+
